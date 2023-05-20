@@ -142,7 +142,6 @@ main {
     line-height: 48px;
     font-weight: 700;
     letter-spacing: -2px;
-    margin: 18px 0 16px;
   }
 
   .page-container {
@@ -191,7 +190,6 @@ main {
     grid-column: 1 / span 2;
     grid-template-columns: repeat(3, minmax(327px, 1fr));
     column-gap: 30px;
-    margin-top: 13px;
   }
 
   .feedbacks p {
